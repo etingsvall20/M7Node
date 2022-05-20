@@ -1,0 +1,5 @@
+req: ve de la paraula request, que seria la petició entrant. És el nom abreviat de la variable utilitzada per aquest fi. Tindrà capçalera i adreça url.
+
+res: ve de response, és a dir la resposta generada corresponent a la petició rebuda de forma seqüencial. 
+
+next: ens dirà si la petició es pot gestionar.
